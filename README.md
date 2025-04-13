@@ -56,7 +56,6 @@ NumPy kütüphanesi (sürüm 2.0.2 veya üzeri önerilir)
 
 📚 Kaynaklar
 NumPy Resmi Web Sitesi
-
 Python Belgeleri
 
 
